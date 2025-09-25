@@ -1,5 +1,15 @@
 # 💫 About Me:
-👋 ¡Hola! Soy un estudiante de 19 años apasionado por el desarrollo web. Actualmente, estoy formándome para convertirme en un desarrollador web profesional, y disfruto creando experiencias digitales interactivas y funcionales.<br><br>🌐 Me encanta trabajar con tecnologías web como HTML, CSS y JavaScript, y estoy aprendiendo frameworks y bibliotecas modernas como React y Node.js. También me interesa el desarrollo backend y el uso de bases de datos para construir aplicaciones completas y escalables.<br><br>🚀 Siempre estoy en busca de nuevos proyectos y retos que me permitan aprender y mejorar mis habilidades. Me gusta explorar las mejores prácticas en diseño web, accesibilidad y rendimiento para crear sitios y aplicaciones que ofrezcan una gran experiencia de usuario.<br><br>📫 Si tienes algún proyecto interesante o simplemente quieres conectar, ¡no dudes en contactarme! Estoy abierto a colaboraciones y a seguir creciendo en la comunidad de desarrolladores.
+👋 ¡Hola! Soy **Yeray Hurtado**, tengo 20 años y soy un apasionado de la tecnología.  
+Mi camino comenzó en el **desarrollo web**, donde aprendí a crear experiencias digitales con **HTML, CSS, JavaScript y React**.<br><br>  
+
+🤖 Actualmente estoy cursando un **Máster en Inteligencia Artificial y Big Data**, que me permite profundizar en áreas como **Machine Learning, Deep Learning, Ciencia de Datos y procesamiento de grandes volúmenes de información**.<br><br>  
+
+🚀 Me gusta trabajar con **Python, SQL y librerías como Pandas, scikit-learn, TensorFlow y PyTorch** para transformar datos en soluciones útiles. También sigo interesado en el desarrollo full-stack, combinando frontend, backend y datos para construir aplicaciones completas y escalables.<br><br>  
+
+🎯 Mi objetivo es crecer como **IA & Big Data Developer**, aplicar mis conocimientos en proyectos innovadores y, a medio plazo, emprender en el mundo tecnológico.<br><br>  
+
+📫 Si tienes algún proyecto interesante o simplemente quieres conectar, ¡no dudes en contactarme! Estoy abierto a **colaboraciones, retos y oportunidades** que me permitan seguir aprendiendo y aportando valor.
+
 
 
 ## 🌐 Socials:
